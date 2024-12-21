@@ -1,0 +1,16 @@
+name: depth_camera_env
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.9
+  - pip
+  - numpy
+  - opencv
+  - pytorch
+  - torchvision
+  - transformers
+  - pyqt
+  - ultralytics
+  - pip:
+      - PyQt5
