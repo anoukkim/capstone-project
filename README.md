@@ -1,6 +1,6 @@
 # Real-Time Depth Camera Software
 
-This project is a software application for real-time depth estimation, image segmentation, and object detection using advanced AI models. The program provides a user-friendly interface and robust performance for capturing images and analyzing depth maps.
+This project is a software application for real-time image segmentation, and object detection using advanced AI models. The program provides a user-friendly interface and robust performance for capturing images and analyzing depth maps.
 
 ---
 
@@ -62,7 +62,7 @@ By leveraging cutting-edge AI networks, this software offers an affordable alter
 ### 1. **Clone the Repository**
 ```bash
 git clone https://github.com/anoukkim/capstone-project.git
-cd real-time-depth-camera-software
+cd depth-software
 ```
 
 ### 2. Set Up the Environment
@@ -79,3 +79,10 @@ Start the application by running the following command:
 ```bash
 python main.py
 ```
+
+<div style="display: flex; justify-content: space-around;">
+  <img src="https://github.com/anoukkim/capstone-project/blob/main/figs/camera.png" alt="Image 1" width="30%" />
+  <img src="https://github.com/anoukkim/capstone-project/blob/main/figs/segmentation.png" alt="Image 2" width="30%" />
+  <img src="[image3.jpg](https://github.com/anoukkim/capstone-project/blob/main/figs/depth_image.png)" alt="Image 3" width="30%" />
+</div>
+
