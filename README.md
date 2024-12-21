@@ -80,9 +80,10 @@ Start the application by running the following command:
 python main.py
 ```
 
+## Visualization
 <div style="display: flex; justify-content: space-around;">
   <img src="https://github.com/anoukkim/capstone-project/blob/main/figs/camera.png" alt="Image 1" width="30%" />
   <img src="https://github.com/anoukkim/capstone-project/blob/main/figs/segmentation.png" alt="Image 2" width="30%" />
-  <img src="[image3.jpg](https://github.com/anoukkim/capstone-project/blob/main/figs/depth_image.png)" alt="Image 3" width="30%" />
+  <img src="https://github.com/anoukkim/capstone-project/blob/main/figs/depth_image.png" alt="Image 3" width="30%" />
 </div>
 
